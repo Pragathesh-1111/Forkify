@@ -13,10 +13,6 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import addReceipeView from './views/addReceipeView.js';
 
-// if(module.hot){
-//   module.hot.accept()
-// }
-
 // Controller Function
 const controlRecipes = async function () {
   try {
